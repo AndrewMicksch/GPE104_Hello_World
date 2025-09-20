@@ -8,6 +8,10 @@ public class HelloWorld : MonoBehaviour
         Debug.Log("Hello World.");
     }
 
+    //New Text for debug
+    {
+        Debug.Log("Wait... This isn't the World...");
+
     // Update is called once per frame
     void Update()
     {
